@@ -18,7 +18,7 @@ Note:
  
 🇪🇸: Puede Tirar un pequeño error, pero solamente acepta y continua
  
-🇬🇧: I could Throw a little error, but just accept and contine
+🇬🇧: I could Throw a little error, but just accept and continue
  
 ######
  

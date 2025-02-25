@@ -5,15 +5,15 @@
 
 [🛡️] : AkitZubi v1.0.7 Encode
  
- -- Anti Load
- -- Anti Lasm
- -- Anti Log
- -- Anti Sstool
- -- Anti Unluac.jar
- -- Anti GG Mod
- -- Fast Log + Execution
- -- Package Detección
-
+-- Anti Load 
+-- Anti Lasm 
+-- Anti Log 
+-- Anti Sstool 
+-- Anti Unluac.jar 
+-- Anti GG Mod 
+-- Fast Log + Execution 
+-- Package Detección 
+ 
 Note:
  
 🇪🇸: Puede Tirar un pequeño error, pero solamente acepta y continua

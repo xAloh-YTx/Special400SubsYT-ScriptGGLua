@@ -4,6 +4,7 @@
 [🎮] : Payback2 (2.106.9)
 
 [🛡️] : AkitZubi v1.7 Encode
+ 
  -- Anti Load
  -- Anti Lasm
  -- Anti Log

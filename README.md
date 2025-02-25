@@ -1,7 +1,7 @@
 # Special400SubsYT-ScriptGGLua
 [🔰] : GameGuardian Script (101.1)
 
-[🎮] : Payback2 (2.106.9)
+[🎮] : Payback2 (2.106.12)
 
 [🛡️] : AkitZubi v1.0.7 Encode
  
